@@ -1,4 +1,4 @@
-import 'package:design_patterns/factory_method.dart';
+import 'package:design_patterns/factories/button_factory/platform_button.dart';
 import 'package:flutter/cupertino.dart';
 
 class IOSButton implements PlatformButton {

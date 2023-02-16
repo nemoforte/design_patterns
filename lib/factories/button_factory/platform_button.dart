@@ -1,5 +1,5 @@
-import 'package:design_patterns/android_button.dart';
-import 'package:design_patterns/ios_button.dart';
+import 'package:design_patterns/factories/button_factory/android_button.dart';
+import 'package:design_patterns/factories/button_factory/ios_button.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
