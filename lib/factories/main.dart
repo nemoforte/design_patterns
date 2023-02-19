@@ -1,4 +1,4 @@
-import 'package:design_patterns/home_view.dart';
+import 'package:design_patterns/factories/home_view.dart';
 import 'package:flutter/material.dart';
 
 void main() {
